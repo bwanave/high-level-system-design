@@ -1,6 +1,6 @@
 # Yelp Design #
 
-Desgin a system like https://www.yelp.com
+Desgin a system like [Yelp](https://www.yelp.com)
 #
 
 #### Requirements: ####
