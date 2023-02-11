@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-11T16:14:12.597Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="kJ9JctH6kgHQ6bQKBl0T" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-11T16:17:15.696Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.1 Safari/605.1.15" etag="4itj2puWi79p5nwF0l8d" version="20.8.20" type="github">
   <diagram name="Page-1" id="FaiYo3VfVypyQkwJXVoq">
     <mxGraphModel dx="1834" dy="2197" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
@@ -31,8 +31,18 @@
         <mxCell id="ZzfddEjBBQgfaQ5Hms3C-98" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZzfddEjBBQgfaQ5Hms3C-86" target="ZzfddEjBBQgfaQ5Hms3C-89">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ZzfddEjBBQgfaQ5Hms3C-108" value="/login" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ZzfddEjBBQgfaQ5Hms3C-98">
+          <mxGeometry x="-0.1237" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="ZzfddEjBBQgfaQ5Hms3C-107" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="ZzfddEjBBQgfaQ5Hms3C-86" target="ZzfddEjBBQgfaQ5Hms3C-92">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZzfddEjBBQgfaQ5Hms3C-109" value="/sign-up" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="ZzfddEjBBQgfaQ5Hms3C-107">
+          <mxGeometry x="-0.3721" y="-1" relative="1" as="geometry">
+            <mxPoint x="23" y="23" as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="ZzfddEjBBQgfaQ5Hms3C-86" value="API Gateway" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.api_gateway;fillColor=#D9A741;gradientColor=none;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="240" y="-599" width="76.5" height="93" as="geometry" />
